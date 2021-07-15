@@ -1,0 +1,7 @@
+.cointainer_productos { 
+    margin: 40px;
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-between;
+}
